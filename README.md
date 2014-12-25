@@ -3,13 +3,13 @@ VPN
 
 ## What's this?
 
-Run this script, you will set up a PPTPT VPN server
+Set up a PPTPD VPN server by running one single script
 
-### Test
+## Apply for
 
-* Tested on Vultr and Digital Ocean VPS
+* Tested on Vultr and Digital Ocean VPS with CentOS v6.5 32bit
 
-### How to run?
+## How to run?
 
 1. `chmod a+x vpn_centos_v6.5_i686.sh`
 2. `./vpn_centos_v6.5_i686.sh`
